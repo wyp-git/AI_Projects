@@ -1,5 +1,4 @@
 # AI Projects
-Machine Learning and Deep Learning Projects
 
 ## [01.线性回归预测CCPP电力输出](./projects/01.线性回归预测CCPP电力输出.ipynb)
 
